@@ -14,5 +14,5 @@
 
 
 add_filter( 'pre_get_rocket_option_sitemap_preload_url_crawl', function () {
-    return 5 * 1000000; // microseconds
+    return 1000000; // 1 second
 } );
