@@ -5,7 +5,7 @@
  * Plugin Name:       Kntnt Preload Interval for WP-Rocket
  * Plugin URI:        https://www.kntnt.com/
  * Description:       Sets the preload interval for WP-Rocket
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
  * License:           GPL-3.0+
